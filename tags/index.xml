@@ -2,269 +2,269 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Zalepik</title>
-    <link>https://zalepik.netlify.app/tags/</link>
+    <link>./tags/</link>
     <description>Recent content in Tags on Zalepik</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://zalepik.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="./tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>javascript</title>
-      <link>https://zalepik.netlify.app/tags/javascript/</link>
+      <link>./tags/javascript/</link>
       <pubDate>Mon, 20 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://zalepik.netlify.app/tags/javascript/</guid>
+      <guid>./tags/javascript/</guid>
       <description></description>
     </item>
     
     <item>
       <title>react</title>
-      <link>https://zalepik.netlify.app/tags/react/</link>
+      <link>./tags/react/</link>
       <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://zalepik.netlify.app/tags/react/</guid>
+      <guid>./tags/react/</guid>
       <description></description>
     </item>
     
     <item>
       <title>UseState</title>
-      <link>https://zalepik.netlify.app/tags/usestate/</link>
+      <link>./tags/usestate/</link>
       <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://zalepik.netlify.app/tags/usestate/</guid>
+      <guid>./tags/usestate/</guid>
       <description></description>
     </item>
     
     <item>
       <title>React Router DOM</title>
-      <link>https://zalepik.netlify.app/tags/react-router-dom/</link>
+      <link>./tags/react-router-dom/</link>
       <pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://zalepik.netlify.app/tags/react-router-dom/</guid>
+      <guid>./tags/react-router-dom/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Routing</title>
-      <link>https://zalepik.netlify.app/tags/routing/</link>
+      <link>./tags/routing/</link>
       <pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://zalepik.netlify.app/tags/routing/</guid>
+      <guid>./tags/routing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>mysql</title>
-      <link>https://zalepik.netlify.app/tags/mysql/</link>
+      <link>./tags/mysql/</link>
       <pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://zalepik.netlify.app/tags/mysql/</guid>
+      <guid>./tags/mysql/</guid>
       <description></description>
     </item>
     
     <item>
       <title>phpMyAdmin</title>
-      <link>https://zalepik.netlify.app/tags/phpmyadmin/</link>
+      <link>./tags/phpmyadmin/</link>
       <pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://zalepik.netlify.app/tags/phpmyadmin/</guid>
+      <guid>./tags/phpmyadmin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Query</title>
-      <link>https://zalepik.netlify.app/tags/query/</link>
+      <link>./tags/query/</link>
       <pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://zalepik.netlify.app/tags/query/</guid>
+      <guid>./tags/query/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SQL</title>
-      <link>https://zalepik.netlify.app/tags/sql/</link>
+      <link>./tags/sql/</link>
       <pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://zalepik.netlify.app/tags/sql/</guid>
+      <guid>./tags/sql/</guid>
       <description></description>
     </item>
     
     <item>
       <title>bootstrap</title>
-      <link>https://zalepik.netlify.app/tags/bootstrap/</link>
+      <link>./tags/bootstrap/</link>
       <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://zalepik.netlify.app/tags/bootstrap/</guid>
+      <guid>./tags/bootstrap/</guid>
       <description></description>
     </item>
     
     <item>
       <title>codeigniter</title>
-      <link>https://zalepik.netlify.app/tags/codeigniter/</link>
+      <link>./tags/codeigniter/</link>
       <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://zalepik.netlify.app/tags/codeigniter/</guid>
+      <guid>./tags/codeigniter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>css</title>
-      <link>https://zalepik.netlify.app/tags/css/</link>
+      <link>./tags/css/</link>
       <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://zalepik.netlify.app/tags/css/</guid>
+      <guid>./tags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>flutter</title>
-      <link>https://zalepik.netlify.app/tags/flutter/</link>
+      <link>./tags/flutter/</link>
       <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://zalepik.netlify.app/tags/flutter/</guid>
+      <guid>./tags/flutter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>html</title>
-      <link>https://zalepik.netlify.app/tags/html/</link>
+      <link>./tags/html/</link>
       <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://zalepik.netlify.app/tags/html/</guid>
+      <guid>./tags/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>node js</title>
-      <link>https://zalepik.netlify.app/tags/node-js/</link>
+      <link>./tags/node-js/</link>
       <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://zalepik.netlify.app/tags/node-js/</guid>
+      <guid>./tags/node-js/</guid>
       <description></description>
     </item>
     
     <item>
       <title>php</title>
-      <link>https://zalepik.netlify.app/tags/php/</link>
+      <link>./tags/php/</link>
       <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://zalepik.netlify.app/tags/php/</guid>
+      <guid>./tags/php/</guid>
       <description></description>
     </item>
     
     <item>
       <title>socket.io</title>
-      <link>https://zalepik.netlify.app/tags/socket.io/</link>
+      <link>./tags/socket.io/</link>
       <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://zalepik.netlify.app/tags/socket.io/</guid>
+      <guid>./tags/socket.io/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tailwind css</title>
-      <link>https://zalepik.netlify.app/tags/tailwind-css/</link>
+      <link>./tags/tailwind-css/</link>
       <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://zalepik.netlify.app/tags/tailwind-css/</guid>
+      <guid>./tags/tailwind-css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>animate</title>
-      <link>https://zalepik.netlify.app/tags/animate/</link>
+      <link>./tags/animate/</link>
       <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://zalepik.netlify.app/tags/animate/</guid>
+      <guid>./tags/animate/</guid>
       <description></description>
     </item>
     
     <item>
       <title>aos</title>
-      <link>https://zalepik.netlify.app/tags/aos/</link>
+      <link>./tags/aos/</link>
       <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://zalepik.netlify.app/tags/aos/</guid>
+      <guid>./tags/aos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>aos cdn</title>
-      <link>https://zalepik.netlify.app/tags/aos-cdn/</link>
+      <link>./tags/aos-cdn/</link>
       <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://zalepik.netlify.app/tags/aos-cdn/</guid>
+      <guid>./tags/aos-cdn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>api</title>
-      <link>https://zalepik.netlify.app/tags/api/</link>
+      <link>./tags/api/</link>
       <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://zalepik.netlify.app/tags/api/</guid>
+      <guid>./tags/api/</guid>
       <description></description>
     </item>
     
     <item>
       <title>denojs</title>
-      <link>https://zalepik.netlify.app/tags/denojs/</link>
+      <link>./tags/denojs/</link>
       <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://zalepik.netlify.app/tags/denojs/</guid>
+      <guid>./tags/denojs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>frontend</title>
-      <link>https://zalepik.netlify.app/tags/frontend/</link>
+      <link>./tags/frontend/</link>
       <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://zalepik.netlify.app/tags/frontend/</guid>
+      <guid>./tags/frontend/</guid>
       <description></description>
     </item>
     
     <item>
       <title>js</title>
-      <link>https://zalepik.netlify.app/tags/js/</link>
+      <link>./tags/js/</link>
       <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://zalepik.netlify.app/tags/js/</guid>
+      <guid>./tags/js/</guid>
       <description></description>
     </item>
     
     <item>
       <title>library</title>
-      <link>https://zalepik.netlify.app/tags/library/</link>
+      <link>./tags/library/</link>
       <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://zalepik.netlify.app/tags/library/</guid>
+      <guid>./tags/library/</guid>
       <description></description>
     </item>
     
     <item>
       <title>nodejs</title>
-      <link>https://zalepik.netlify.app/tags/nodejs/</link>
+      <link>./tags/nodejs/</link>
       <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://zalepik.netlify.app/tags/nodejs/</guid>
+      <guid>./tags/nodejs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>python</title>
-      <link>https://zalepik.netlify.app/tags/python/</link>
+      <link>./tags/python/</link>
       <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://zalepik.netlify.app/tags/python/</guid>
+      <guid>./tags/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>speedup</title>
-      <link>https://zalepik.netlify.app/tags/speedup/</link>
+      <link>./tags/speedup/</link>
       <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://zalepik.netlify.app/tags/speedup/</guid>
+      <guid>./tags/speedup/</guid>
       <description></description>
     </item>
     

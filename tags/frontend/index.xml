@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>frontend on Zalepik</title>
-    <link>https://zalepik.netlify.app/tags/frontend/</link>
+    <link>./tags/frontend/</link>
     <description>Recent content in frontend on Zalepik</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://zalepik.netlify.app/tags/frontend/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="./tags/frontend/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cara Membuat Animasi Bergerak Mengambang dengan CSS dan JavaScript</title>
-      <link>https://zalepik.netlify.app/artikel/cara-membuat-animasi-bergerak-mengambang-dengan-css-dan-javascript/</link>
+      <link>./artikel/cara-membuat-animasi-bergerak-mengambang-dengan-css-dan-javascript/</link>
       <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://zalepik.netlify.app/artikel/cara-membuat-animasi-bergerak-mengambang-dengan-css-dan-javascript/</guid>
+      <guid>./artikel/cara-membuat-animasi-bergerak-mengambang-dengan-css-dan-javascript/</guid>
       <description>Dalam membuat website, terkadang kita ingin menambahkan efek visual yang menarik dan dinamis seperti animasi yang bergerak mengambang naik turun secara terus menerus.</description>
     </item>
     
     <item>
       <title>Deno.js, akankah menggantikan Node.js</title>
-      <link>https://zalepik.netlify.app/artikel/denojs-akankah-menggantikan-nodejs/</link>
+      <link>./artikel/denojs-akankah-menggantikan-nodejs/</link>
       <pubDate>Sun, 08 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://zalepik.netlify.app/artikel/denojs-akankah-menggantikan-nodejs/</guid>
+      <guid>./artikel/denojs-akankah-menggantikan-nodejs/</guid>
       <description>Pada kesempatan kali ini kita akan belajar tentang Deno.js. Nama Deno.</description>
     </item>
     
     <item>
       <title>Berkenalan dengan Pyscript</title>
-      <link>https://zalepik.netlify.app/artikel/berkenalan-dengan-pyscript/</link>
+      <link>./artikel/berkenalan-dengan-pyscript/</link>
       <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://zalepik.netlify.app/artikel/berkenalan-dengan-pyscript/</guid>
+      <guid>./artikel/berkenalan-dengan-pyscript/</guid>
       <description>Pada kesempatan kali ini kita akan berkenalan dengan Pyscript, Python yang dapat berjalan di sisi browser.</description>
     </item>
     
     <item>
       <title>Cara Menjalankan PHP Tanpa Web Server Apache atau XAMPP</title>
-      <link>https://zalepik.netlify.app/artikel/cara-menjalankan-php-tanpa-web-server-apache-atau-xampp/</link>
+      <link>./artikel/cara-menjalankan-php-tanpa-web-server-apache-atau-xampp/</link>
       <pubDate>Tue, 27 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://zalepik.netlify.app/artikel/cara-menjalankan-php-tanpa-web-server-apache-atau-xampp/</guid>
+      <guid>./artikel/cara-menjalankan-php-tanpa-web-server-apache-atau-xampp/</guid>
       <description>Pada kesempatan kali ini kita akan belajar bagaimana caranya menjalankan PHP tanpa web server Apache atau menggunakan XAMPP.</description>
     </item>
     
     <item>
       <title>Cara Membuat Elemen Melayang Saat Discroll pada Website Menggunakan Library AOS</title>
-      <link>https://zalepik.netlify.app/artikel/cara-membuat-elemen-melayang-saat-di-scroll/</link>
+      <link>./artikel/cara-membuat-elemen-melayang-saat-di-scroll/</link>
       <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://zalepik.netlify.app/artikel/cara-membuat-elemen-melayang-saat-di-scroll/</guid>
+      <guid>./artikel/cara-membuat-elemen-melayang-saat-di-scroll/</guid>
       <description>Pada tutorial kali ini kita akan belajar bagaimana caranya membuat elemen melayang saat discroll pada website.</description>
     </item>
     
