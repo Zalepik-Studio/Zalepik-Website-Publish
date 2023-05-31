@@ -2,236 +2,236 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>./artikel/</loc>
+    <loc>localhost/artikel/</loc>
     <lastmod>2023-02-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./tags/javascript/</loc>
+    <loc>localhost/tags/javascript/</loc>
     <lastmod>2023-02-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./artikel/pengkondisian-di-javascript/</loc>
+    <loc>localhost/artikel/pengkondisian-di-javascript/</loc>
     <lastmod>2023-02-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./tags/</loc>
+    <loc>localhost/tags/</loc>
     <lastmod>2023-02-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./</loc>
+    <loc>localhost/</loc>
     <lastmod>2023-02-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./artikel/javascript-operators/</loc>
+    <loc>localhost/artikel/javascript-operators/</loc>
     <lastmod>2023-02-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./artikel/tipe-data-di-javascript/</loc>
+    <loc>localhost/artikel/tipe-data-di-javascript/</loc>
     <lastmod>2023-02-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./artikel/javascript-variable/</loc>
+    <loc>localhost/artikel/javascript-variable/</loc>
     <lastmod>2023-02-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./artikel/javascript-comments/</loc>
+    <loc>localhost/artikel/javascript-comments/</loc>
     <lastmod>2023-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./artikel/javascript-hello-world/</loc>
+    <loc>localhost/artikel/javascript-hello-world/</loc>
     <lastmod>2023-02-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./artikel/pengenalan-dan-sejarah-javascript/</loc>
+    <loc>localhost/artikel/pengenalan-dan-sejarah-javascript/</loc>
     <lastmod>2023-02-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./artikel/memunculkan-dan-menyembunyikan-elemen-menggunakan-usestate-di-react/</loc>
+    <loc>localhost/artikel/memunculkan-dan-menyembunyikan-elemen-menggunakan-usestate-di-react/</loc>
     <lastmod>2023-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./tags/react/</loc>
+    <loc>localhost/tags/react/</loc>
     <lastmod>2023-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./tags/usestate/</loc>
+    <loc>localhost/tags/usestate/</loc>
     <lastmod>2023-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./artikel/cara-membuat-routing-di-react/</loc>
+    <loc>localhost/artikel/cara-membuat-routing-di-react/</loc>
     <lastmod>2023-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./tags/react-router-dom/</loc>
+    <loc>localhost/tags/react-router-dom/</loc>
     <lastmod>2023-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./tags/routing/</loc>
+    <loc>localhost/tags/routing/</loc>
     <lastmod>2023-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./tags/mysql/</loc>
+    <loc>localhost/tags/mysql/</loc>
     <lastmod>2023-01-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./tags/phpmyadmin/</loc>
+    <loc>localhost/tags/phpmyadmin/</loc>
     <lastmod>2023-01-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./tags/query/</loc>
+    <loc>localhost/tags/query/</loc>
     <lastmod>2023-01-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./artikel/query-sql-penting-untuk-mengelola-database-mysql-di-phpmyadmin/</loc>
+    <loc>localhost/artikel/query-sql-penting-untuk-mengelola-database-mysql-di-phpmyadmin/</loc>
     <lastmod>2023-01-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./tags/sql/</loc>
+    <loc>localhost/tags/sql/</loc>
     <lastmod>2023-01-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./tags/bootstrap/</loc>
+    <loc>localhost/tags/bootstrap/</loc>
     <lastmod>2023-01-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./tags/codeigniter/</loc>
+    <loc>localhost/tags/codeigniter/</loc>
     <lastmod>2023-01-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./tags/css/</loc>
+    <loc>localhost/tags/css/</loc>
     <lastmod>2023-01-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./tags/flutter/</loc>
+    <loc>localhost/tags/flutter/</loc>
     <lastmod>2023-01-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./tags/html/</loc>
+    <loc>localhost/tags/html/</loc>
     <lastmod>2023-01-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./artikel/membuat-realtime-chat-sederhana-menggunakan-socket.io/</loc>
+    <loc>localhost/artikel/membuat-realtime-chat-sederhana-menggunakan-socket.io/</loc>
     <lastmod>2023-01-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./tags/node-js/</loc>
+    <loc>localhost/tags/node-js/</loc>
     <lastmod>2023-01-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./tags/php/</loc>
+    <loc>localhost/tags/php/</loc>
     <lastmod>2023-01-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./tags/socket.io/</loc>
+    <loc>localhost/tags/socket.io/</loc>
     <lastmod>2023-01-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./tags/tailwind-css/</loc>
+    <loc>localhost/tags/tailwind-css/</loc>
     <lastmod>2023-01-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./tags/animate/</loc>
+    <loc>localhost/tags/animate/</loc>
     <lastmod>2023-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./tags/aos/</loc>
+    <loc>localhost/tags/aos/</loc>
     <lastmod>2023-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./tags/aos-cdn/</loc>
+    <loc>localhost/tags/aos-cdn/</loc>
     <lastmod>2023-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./tags/api/</loc>
+    <loc>localhost/tags/api/</loc>
     <lastmod>2023-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./artikel/cara-membuat-animasi-bergerak-mengambang-dengan-css-dan-javascript/</loc>
+    <loc>localhost/artikel/cara-membuat-animasi-bergerak-mengambang-dengan-css-dan-javascript/</loc>
     <lastmod>2023-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./tags/denojs/</loc>
+    <loc>localhost/tags/denojs/</loc>
     <lastmod>2023-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./tags/frontend/</loc>
+    <loc>localhost/tags/frontend/</loc>
     <lastmod>2023-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./tags/js/</loc>
+    <loc>localhost/tags/js/</loc>
     <lastmod>2023-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./tags/library/</loc>
+    <loc>localhost/tags/library/</loc>
     <lastmod>2023-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./tags/nodejs/</loc>
+    <loc>localhost/tags/nodejs/</loc>
     <lastmod>2023-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./tags/python/</loc>
+    <loc>localhost/tags/python/</loc>
     <lastmod>2023-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./tags/speedup/</loc>
+    <loc>localhost/tags/speedup/</loc>
     <lastmod>2023-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./artikel/denojs-akankah-menggantikan-nodejs/</loc>
+    <loc>localhost/artikel/denojs-akankah-menggantikan-nodejs/</loc>
     <lastmod>2023-01-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./artikel/berkenalan-dengan-pyscript/</loc>
+    <loc>localhost/artikel/berkenalan-dengan-pyscript/</loc>
     <lastmod>2022-12-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./artikel/cara-menjalankan-php-tanpa-web-server-apache-atau-xampp/</loc>
+    <loc>localhost/artikel/cara-menjalankan-php-tanpa-web-server-apache-atau-xampp/</loc>
     <lastmod>2022-12-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./artikel/cara-membuat-elemen-melayang-saat-di-scroll/</loc>
+    <loc>localhost/artikel/cara-membuat-elemen-melayang-saat-di-scroll/</loc>
     <lastmod>2022-12-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./post/</loc>
+    <loc>localhost/post/</loc>
     <lastmod>2022-11-27T07:52:01+07:00</lastmod>
   </url><url>
-    <loc>./post/blog3/</loc>
+    <loc>localhost/post/blog3/</loc>
     <lastmod>2022-11-27T07:52:01+07:00</lastmod>
   </url><url>
-    <loc>./post/blog1/</loc>
+    <loc>localhost/post/blog1/</loc>
     <lastmod>2022-11-27T07:51:51+07:00</lastmod>
   </url><url>
-    <loc>./post/blog2/</loc>
+    <loc>localhost/post/blog2/</loc>
     <lastmod>2022-11-27T07:51:51+07:00</lastmod>
   </url><url>
-    <loc>./post/my-first-post/</loc>
+    <loc>localhost/post/my-first-post/</loc>
     <lastmod>2022-11-25T13:53:07+07:00</lastmod>
   </url><url>
-    <loc>./services/</loc>
+    <loc>localhost/services/</loc>
     <lastmod>2022-11-25T13:45:45+07:00</lastmod>
   </url><url>
-    <loc>./gratisan/</loc>
+    <loc>localhost/gratisan/</loc>
     <lastmod>2022-11-25T13:45:45+07:00</lastmod>
   </url><url>
-    <loc>./harga/</loc>
+    <loc>localhost/harga/</loc>
     <lastmod>2022-11-25T13:45:45+07:00</lastmod>
   </url><url>
-    <loc>./hello/</loc>
+    <loc>localhost/hello/</loc>
     <lastmod>2022-11-25T13:45:45+07:00</lastmod>
   </url><url>
-    <loc>./hello/zain/</loc>
+    <loc>localhost/hello/zain/</loc>
     <lastmod>2022-11-25T13:45:45+07:00</lastmod>
   </url><url>
-    <loc>./hubungi/</loc>
+    <loc>localhost/hubungi/</loc>
     <lastmod>2022-11-25T13:45:45+07:00</lastmod>
   </url><url>
-    <loc>./layanan/</loc>
+    <loc>localhost/layanan/</loc>
     <lastmod>2022-11-25T13:45:45+07:00</lastmod>
   </url><url>
-    <loc>./page/</loc>
+    <loc>localhost/page/</loc>
     <lastmod>2022-11-25T13:45:45+07:00</lastmod>
   </url><url>
-    <loc>./artikel/heri/</loc>
+    <loc>localhost/artikel/heri/</loc>
     <lastmod>2022-11-25T13:45:45+07:00</lastmod>
   </url><url>
-    <loc>./artikel/zain/</loc>
+    <loc>localhost/artikel/zain/</loc>
     <lastmod>2022-11-25T13:45:45+07:00</lastmod>
   </url><url>
-    <loc>./profile/Zain/</loc>
+    <loc>localhost/profile/Zain/</loc>
     <lastmod>2022-11-25T13:45:45+07:00</lastmod>
   </url><url>
-    <loc>./profile/</loc>
+    <loc>localhost/profile/</loc>
     <lastmod>2022-11-25T13:45:45+07:00</lastmod>
   </url><url>
-    <loc>./promo/</loc>
+    <loc>localhost/promo/</loc>
     <lastmod>2022-11-25T13:45:45+07:00</lastmod>
   </url><url>
-    <loc>./services/development/</loc>
+    <loc>localhost/services/development/</loc>
     <lastmod>2022-11-25T13:45:45+07:00</lastmod>
   </url><url>
-    <loc>./services/icon_and_logo/</loc>
+    <loc>localhost/services/icon_and_logo/</loc>
     <lastmod>2022-11-25T13:45:45+07:00</lastmod>
   </url><url>
-    <loc>./services/illustration/</loc>
+    <loc>localhost/services/illustration/</loc>
     <lastmod>2022-11-25T13:45:45+07:00</lastmod>
   </url><url>
-    <loc>./services/uiux/</loc>
+    <loc>localhost/services/uiux/</loc>
     <lastmod>2022-11-25T13:45:45+07:00</lastmod>
   </url><url>
-    <loc>./tentang/</loc>
+    <loc>localhost/tentang/</loc>
     <lastmod>2022-11-25T13:45:45+07:00</lastmod>
   </url><url>
-    <loc>./website_gratis/</loc>
+    <loc>localhost/website_gratis/</loc>
     <lastmod>2022-11-25T13:45:45+07:00</lastmod>
   </url><url>
-    <loc>./arabic/</loc>
+    <loc>localhost/arabic/</loc>
   </url><url>
-    <loc>./arabic_site/</loc>
+    <loc>localhost/arabic_site/</loc>
   </url><url>
-    <loc>./categories/</loc>
+    <loc>localhost/categories/</loc>
   </url><url>
-    <loc>./clients/</loc>
+    <loc>localhost/clients/</loc>
   </url><url>
-    <loc>./english/contact_us/</loc>
+    <loc>localhost/english/contact_us/</loc>
   </url><url>
-    <loc>./english/</loc>
+    <loc>localhost/english/</loc>
   </url><url>
-    <loc>./english_site/</loc>
+    <loc>localhost/english_site/</loc>
   </url><url>
-    <loc>./video/</loc>
+    <loc>localhost/video/</loc>
   </url>
 </urlset>
